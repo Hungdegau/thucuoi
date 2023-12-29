@@ -1,0 +1,10 @@
+h3{
+    color: blue;
+font-size: 40px;
+/* float: right; */
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
